@@ -1,6 +1,4 @@
-exports.static = true;
+'use strict';
 
-exports.vuessr = {
-  enable: true,
-  package: 'egg-view-vue-ssr'
-};
+// had enabled by egg
+// exports.static = true;
